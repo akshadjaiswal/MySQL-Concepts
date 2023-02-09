@@ -1,4 +1,4 @@
-
+--Basic Data types using in  SQL
 INT                           -- Whole Numbers
 DECIMAL(M,N)                  -- Decimal Numbers - Exact Value
 VARCHAR(l)                    -- String of text of length l
@@ -14,7 +14,7 @@ CREATE TABLE student (
   -- PRIMARY KEY(student_id)
 );
 
-DESCRIBE student; 
-DROP TABLE student;
-ALTER TABLE student ADD gpa DECIMAL;
-ALTER TABLE student DROP COLUMN gpa;
+DESCRIBE student;                    --showing all from the tables
+DROP TABLE student;                  --deleting the student table
+ALTER TABLE student ADD gpa DECIMAL; --adding a new coloumn named gpa in the table student
+ALTER TABLE student DROP COLUMN gpa; --deleting the column named gpa from the tabble student
