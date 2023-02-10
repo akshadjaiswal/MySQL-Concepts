@@ -1,5 +1,4 @@
 
-
 CREATE TABLE student (
   student_id INT PRIMARY KEY AUTO_INCREMENT, --Auto increment the value of student_id.
   name VARCHAR(40) NOT NULL,                 --NOT NULL is a constraint use to make a table should not be null.
