@@ -1,4 +1,4 @@
--- ON DELETE SET NULL is used if any of the value is deleted from foreign key then it will show the NULL as a value
+-- ON DELETE SET NULL is used if any of the value is deleted from foreign key then it will show the NULL as a value.
 
 -- ON DELETE SET NULL
 DELETE FROM employee
