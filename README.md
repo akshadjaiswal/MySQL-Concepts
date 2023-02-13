@@ -31,4 +31,8 @@ as tables.SQL stands for Structured Query Language. SQL lets you access and mani
 - Contains all the queries and code of above topics.
 - Also you can use these as a reference for learning.
 
+## Contact
+- Email- akshadsantoshjaiswal@gmail.com
+- Twitter- https://twitter.com/akshad_999
+
 
