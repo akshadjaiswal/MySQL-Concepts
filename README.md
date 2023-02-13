@@ -34,5 +34,6 @@ as tables.SQL stands for Structured Query Language. SQL lets you access and mani
 ## Contact
 - Email- akshadsantoshjaiswal@gmail.com
 - Twitter- https://twitter.com/akshad_999
+- LinkedIn- https://www.linkedin.com/in/akshadsantoshjaiswal/
 
 
