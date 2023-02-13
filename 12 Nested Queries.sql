@@ -1,4 +1,4 @@
-
+--This is how nested query should be written
 -- Find names of all employees who have sold over 50,000
 SELECT employee.first_name, employee.last_name
 FROM employee
