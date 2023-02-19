@@ -37,5 +37,5 @@ as tables.SQL stands for Structured Query Language. SQL lets you access and mani
 - LinkedIn- https://www.linkedin.com/in/akshadsantoshjaiswal/
 
 ## Achievements
-
+- Solved challenges of SQL on Hackerrank and got two star badge position. 
 
