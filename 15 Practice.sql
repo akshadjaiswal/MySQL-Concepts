@@ -1,0 +1,2 @@
+SELECT year
+FROM surveys;
