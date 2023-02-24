@@ -7,6 +7,7 @@ FROM surveys;
 SELECT year, month, day, weight/1000.0
 FROM surveys;
 
+-- Write a query that returns the year, month, day, species_id and weight in mg
 SELECT day, month, year, species_id, weight * 1000
 FROM surveys;
 
