@@ -24,3 +24,12 @@ SELECT day, month, year, species_id, weight / 1000.0
 FROM surveys
 WHERE plot_id = 1
 AND weight > 75;
+
+CREATE TABLE Persons (
+    ID int NOT NULL,
+    LastName varchar(255) NOT NULL,
+    FirstName varchar(255),
+    Age int,
+    City varchar(255),
+    CONSTRAINT CHK_Person CHECK (Age>=18 AND City='Sandnes')
+);
