@@ -33,3 +33,5 @@ CREATE TABLE Persons (
     City varchar(255),
     CONSTRAINT CHK_Person CHECK (Age>=18 AND City='Sandnes')
 );
+
+SELECT studentID, FullName, sat_score, rcd_updated FROM student;
