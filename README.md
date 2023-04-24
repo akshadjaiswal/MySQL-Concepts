@@ -4,15 +4,15 @@ a structure that allows us to identify and access the data in relation to anothe
 as tables.SQL stands for Structured Query Language. SQL let you access and manipulate the databases.
 
 ## Below are the basic and deep concepts i learned of Structural Query Language(SQL).
-- Introduction to SQL
-- Tables and Keys
-- Creating Tables
-- Inserting Data
-- Constraints
-- Update & Delete
-- Basic Queries in SQL
-- Creating company database
-- More Basic queries
+- Introduction to SQL.
+- Tables and Keys.
+- Creating Tables.
+- Inserting Data.
+- Constraints.
+- Update & Delete.
+- Basic Queries in SQL.
+- Creating company database.
+- More Basic queries.
 - Functions in SQL
 - Wildcards using in SQL
 - Unions
