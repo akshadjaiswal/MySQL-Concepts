@@ -13,19 +13,19 @@ as tables.SQL stands for Structured Query Language. SQL let you access and manip
 - Basic Queries in SQL.
 - Creating company database.
 - More Basic queries.
-- Functions in SQL
-- Wildcards using in SQL
-- Unions
-- Joins
-- Nested Queries
-- On Delete
-- Triggers
+- Functions in SQL.
+- Wildcards using in SQL.
+- Unions.
+- Joins.
+- Nested Queries.
+- On Delete.
+- Triggers.
 - ER Diagrams.
 
 ## Tools:-
-- MySQL Installer 8.0.32 (for downloading sql server)
-- MySQL Workbench 8.0.32 (Creating Database, Query writing and practicing)
-- MySQL command line client 8.0(Operating Database by CLI)
+- MySQL Installer 8.0.32. (for downloading sql server)
+- MySQL Workbench 8.0.32. (Creating Database, Query writing and practicing)
+- MySQL command line client 8.0.(Operating Database by CLI)
 
 ## About this repo:-
 - Contains all the queries and code of above topics.
