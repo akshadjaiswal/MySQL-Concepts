@@ -22,7 +22,7 @@ as tables.SQL stands for Structured Query Language. SQL let you access and manip
 - Triggers.
 - ER Diagrams.
 
-## Tools:-
+## Tools:- 
 - MySQL Installer 8.0.32. (for downloading sql server)
 - MySQL Workbench 8.0.32. (Creating Database, Query writing and practicing)
 - MySQL command line client 8.0.(Operating Database by CLI)
@@ -39,4 +39,4 @@ as tables.SQL stands for Structured Query Language. SQL let you access and manip
 ## Achievements:-
 - Solved challenges of SQL on Hackerrank and got two star badge position. 
 - Successfully cleared Hackerrank skill assessment of SQL(Basics) and got certified.
-- Certification :- https://drive.google.com/file/d/1GUtVkDWi-vFT9pwwx4wm-w7jNv6ZbKSY/view?usp=sharing
+- Certification:- https://drive.google.com/file/d/1GUtVkDWi-vFT9pwwx4wm-w7jNv6ZbKSY/view?usp=sharing
