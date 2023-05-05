@@ -19,7 +19,7 @@ SELECT *
 FROM surveys
 WHERE (year >= 2000) AND (species_id = 'DM');
 
--- Write a query that returns the day, month, year, species_id, and weight (in kg) for individuals caught on Plot 1 that weigh more than 75 g
+-- Write a query that returns the day, month, year, species_id, and weight (in kg) for individuals caught on Plot1 that weigh more than 75 g
 SELECT day, month, year, species_id, weight / 1000.0
 FROM surveys
 WHERE plot_id = 1
